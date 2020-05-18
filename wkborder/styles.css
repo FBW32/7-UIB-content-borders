@@ -1,0 +1,33 @@
+.border-box {
+  background: #eee;
+  margin: 0 0 20px;
+  padding: 20px;
+  width: 300px;
+}
+#box-1 {
+  border: 0.3px solid rgb(44, 46, 51);
+}
+
+#box-2 {
+  border: 0.2px dotted rgb(68, 67, 67);
+}
+#box-3 {
+  border: 0.2px rgb(68, 67, 67);
+  border-style: dotted;
+}
+#box-4 {
+  border: 3px rgb(68, 67, 67);
+  border-style: double;
+}
+#box-5 {
+  border: 5px solid rgb(68, 67, 67);
+}
+#box-6 {
+  border: 5px dashed rgb(68, 67, 67);
+}
+#box-7 {
+  border: 5px dotted rgb(68, 67, 67);
+}
+#box-8 {
+  border: 5px double rgb(68, 67, 67);
+}
