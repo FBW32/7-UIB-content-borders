@@ -1,0 +1,29 @@
+.box1 {
+  border-style: solid;
+  border-width: 1px;
+  width: fit-content;
+  background-color: rgba(131, 77, 11, 0.411);
+}
+
+.box2 {
+  border-style: dashed;
+  border-width: 1px;
+  background: rgba(96, 197, 167, 0.411);
+  width: fit-content;
+}
+
+.box3 {
+  border-style: dotted;
+  border-color: rgb(119, 2, 2);
+  border-width: 1px;
+  background: rgba(200, 191, 107, 0.657);
+  width: fit-content;
+}
+
+.box4 {
+  border-style: double;
+  border-color: rgb(157, 168, 4);
+  border-width: 1px;
+  background: rgba(23, 39, 129, 0.294);
+  width: fit-content;
+}
